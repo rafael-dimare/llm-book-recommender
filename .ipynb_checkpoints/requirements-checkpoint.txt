@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+langchain-community
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+tf-keras
+transformers
